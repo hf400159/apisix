@@ -82,7 +82,7 @@ etcd provides these features and more making it ideal over other databases like 
 
 To learn more on how etcd compares with other alternatives see this [comparison chart](https://etcd.io/docs/latest/learning/why/#comparison-chart).
 
-## When installing Apache APISIX dependencies with LuaRocks, why does it cause a timeout or result in a slow or unsuccessful installation?
+## When installing Apache   APISIX dependencies with LuaRocks, why does it cause a timeout or result in a slow or unsuccessful installation?
 
 This is likely because the LuaRocks server used is blocked.
 
